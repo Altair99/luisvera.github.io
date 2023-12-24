@@ -80,10 +80,6 @@ link = "https://www.linkedin.com/in/luisvera99/"
 icon = "fas fa-envelope"
 link = "mailto:luis.v.priego@gmail.com"
 
-#[[params.social]]
-#icon = "fab fa-medium"
-#link = "https://medium.com/@gusburton"
-
 contentDir = "content/english"
 weight = 1
 home = "Home"
