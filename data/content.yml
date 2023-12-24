@@ -1,0 +1,115 @@
+########################## hero area ##########################
+hero:
+  title: "I'm Luis Vera"
+
+  # animated text loop
+  occupations:
+    - 'Game Developer'
+    - 'Software Developer'
+    - 'Chocolate milk Developer'
+
+  # hero background image
+  bg_image: 'images/background.jpg'
+  # optional mobile breakpoint background
+  mobile_bg_image: 'images/gus_small.jpg'
+
+########################### About ##################################
+about:
+  enable: true
+  image: 'images/profile.jpg'
+  title: 'THIS IS ME'
+  content: Hello and thanks for dropping by! I'm a Senior Developer with a keen interest in video games and tech. My journey has led me to diverse projects showcasing expertise in game development and software engineering. Dive into my portfolio to explore the latest highlights. If you have questions or want to connect, feel free to reach out through my [social links]. I'm always eager to discuss exciting opportunities and collaborate with like-minded individuals. Thanks once more for visiting!
+  #content: Hi, thank you for taking a look around my site. If you have any questions feel free to reach out on [LinkedIn, Github, or by email](#contact)!
+  button:
+    enable: true
+    label: 'CHECK MY RESUME ONLINE'
+    link: https://rxresu.me/luis.v.priego/game-developer
+    icon: 'fa-download'
+
+###########################3 Experience ##############################
+experience:
+  enable: true
+  title: 'EXPERIENCE'
+  experience_list:
+    - name: Game Developer
+      company: Bromio
+      duration: '2022-Current'
+      content: After some character development I return to videogames and more.
+
+    - name: Software Developer
+      company: Colores
+      duration: '2020-2022'
+      content: Starting to work as the only tech guy.
+
+    - name: Game Developer
+      company: Bromio
+      duration: '2013-2020'
+      content: My journey begins as developer..
+
+############################### Skill #################################
+skill:
+  enable: true
+  title: 'SKILLS'
+  showpercent: false
+  skill_list:
+    - name: 'Unity'
+      percentage: '100%'
+
+    - name: 'Unreal'
+      percentage: '40%'
+
+    - name: 'Godot'
+      percentage: '25%'
+
+    - name: 'Passion'
+      percentage: '100%'
+
+######################### funfacts #############################3
+funfacts:
+  enable: false
+  funfacts_list:
+    - name: 'CHOCOLATE MILK PER DAY'
+      image: 'images/icons/coffee.png'
+      count: '2'
+
+    - name: 'GAMES PUBLISH'
+      image: 'images/icons/web-development.png'
+      count: '6'
+
+    - name: '+ PORTS'
+      image: 'images/icons/happy.png'
+      count: '10'
+
+############################# portfolio ################################
+portfolio:
+  enable: true
+  title: 'PROJECTS'
+  portfolio_list:
+    - name: Patobox
+      image: 'images/portfolio/hugo.png'
+      url: https://store.steampowered.com/app/682080/Pato_Box/
+      description: Commodo non mollit commodo esse. Quis ad Lorem eiusmod ad velit Lorem sint elit. Anim magna duis et duis pariatur eiusmod laboris esse. Sit duis labore sit esse enim laborum nisi sunt magna sint labore tempor. Sit sit sint eu laboris officia et sunt consequat sit excepteur nostrud eu. Fugiat aliqua id et pariatur quis commodo aute aliqua et magna officia eu cillum mollit. Sint culpa excepteur culpa culpa sint est eu dolore culpa duis adipisicing proident.
+
+    - name: Remnants of the Rift
+      image: 'images/portfolio/hugothemes.png'
+      url: https://www.remnantsoftherift.com/
+      description: Commodo non mollit commodo esse. Quis ad Lorem eiusmod ad velit Lorem sint elit. Anim magna duis et duis pariatur eiusmod laboris esse. Sit duis labore sit esse enim laborum nisi sunt magna sint labore tempor. Sit sit sint eu laboris officia et sunt consequat sit excepteur nostrud eu. Fugiat aliqua id et pariatur quis commodo aute aliqua et magna officia eu cillum mollit. Sint culpa excepteur culpa culpa sint est eu dolore culpa duis adipisicing proident.
+
+    - name: El Paso, Elsewhere
+      image: 'images/portfolio/design.png'
+      description: Commodo non mollit commodo esse. Quis ad Lorem eiusmod ad velit Lorem sint elit. Anim magna duis et duis pariatur eiusmod laboris esse. Sit duis labore sit esse enim laborum nisi sunt magna sint labore tempor. Sit sit sint eu laboris officia et sunt consequat sit excepteur nostrud eu. Fugiat aliqua id et pariatur quis commodo aute aliqua et magna officia eu cillum mollit. Sint culpa excepteur culpa culpa sint est eu dolore culpa duis adipisicing proident.
+
+    - name: Iron Marines Invasion
+      image: 'images/portfolio/hugo.png'
+      url: https://store.steampowered.com/app/682080/Pato_Box/
+      description: Commodo non mollit commodo esse. Quis ad Lorem eiusmod ad velit Lorem sint elit. Anim magna duis et duis pariatur eiusmod laboris esse. Sit duis labore sit esse enim laborum nisi sunt magna sint labore tempor. Sit sit sint eu laboris officia et sunt consequat sit excepteur nostrud eu. Fugiat aliqua id et pariatur quis commodo aute aliqua et magna officia eu cillum mollit. Sint culpa excepteur culpa culpa sint est eu dolore culpa duis adipisicing proident.
+
+    - name: Aragami 2
+      image: 'images/portfolio/hugo.png'
+      url: https://store.steampowered.com/app/682080/Pato_Box/
+      description: Commodo non mollit commodo esse. Quis ad Lorem eiusmod ad velit Lorem sint elit. Anim magna duis et duis pariatur eiusmod laboris esse. Sit duis labore sit esse enim laborum nisi sunt magna sint labore tempor. Sit sit sint eu laboris officia et sunt consequat sit excepteur nostrud eu. Fugiat aliqua id et pariatur quis commodo aute aliqua et magna officia eu cillum mollit. Sint culpa excepteur culpa culpa sint est eu dolore culpa duis adipisicing proident.
+
+    - name: NDA Projects
+      image: 'images/portfolio/hugo.png'
+      url: https://store.steampowered.com/app/682080/Pato_Box/
+      description: Commodo non mollit commodo esse. Quis ad Lorem eiusmod ad velit Lorem sint elit. Anim magna duis et duis pariatur eiusmod laboris esse. Sit duis labore sit esse enim laborum nisi sunt magna sint labore tempor. Sit sit sint eu laboris officia et sunt consequat sit excepteur nostrud eu. Fugiat aliqua id et pariatur quis commodo aute aliqua et magna officia eu cillum mollit. Sint culpa excepteur culpa culpa sint est eu dolore culpa duis adipisicing proident.
