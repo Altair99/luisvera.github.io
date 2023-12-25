@@ -9,16 +9,16 @@ hero:
     - 'Chocolate milk Developer'
 
   # hero background image
-  bg_image: 'images/background.jpg'
+  bg_image: 'images/custom/background.jpg'
   # optional mobile breakpoint background
   mobile_bg_image: 'images/gus_small.jpg'
 
 ########################### About ##################################
 about:
   enable: true
-  image: 'images/profile.jpg'
+  image: 'images/custom/profile.jpg'
   title: 'THIS IS ME'
-  content: Hello and thanks for dropping by! I'm a Senior Developer with a keen interest in video games and tech. My journey has led me to diverse projects showcasing expertise in game development and software engineering. Dive into my portfolio to explore the latest highlights. If you have questions or want to connect, feel free to reach out through my [social links]. I'm always eager to discuss exciting opportunities and collaborate with like-minded individuals. Thanks once more for visiting!
+  content: Hello and thanks for dropping by! I'm a Senior Developer with a keen interest in video games and tech. My journey has led me to diverse projects showcasing expertise in game development and software engineering. Dive into my portfolio to explore the latest highlights. If you have questions or want to connect, feel free to reach out through [LinkedIn or by email](#contact). I'm always eager to discuss exciting opportunities and collaborate with like-minded individuals. Thanks once more for visiting!
   #content: Hi, thank you for taking a look around my site. If you have any questions feel free to reach out on [LinkedIn, Github, or by email](#contact)!
   button:
     enable: true
@@ -85,15 +85,15 @@ portfolio:
   enable: true
   title: 'PROJECTS'
   portfolio_list:
-    - name: Patobox
-      image: 'images/portfolio/hugo.png'
+    - name: Pato Box
+      image: 'images/portfolio/patobox.png'
       url: https://store.steampowered.com/app/682080/Pato_Box/
-      description: Commodo non mollit commodo esse. Quis ad Lorem eiusmod ad velit Lorem sint elit. Anim magna duis et duis pariatur eiusmod laboris esse. Sit duis labore sit esse enim laborum nisi sunt magna sint labore tempor. Sit sit sint eu laboris officia et sunt consequat sit excepteur nostrud eu. Fugiat aliqua id et pariatur quis commodo aute aliqua et magna officia eu cillum mollit. Sint culpa excepteur culpa culpa sint est eu dolore culpa duis adipisicing proident.
+      description: Pato Box is an intriguing and unique video game that combines elements of puzzle-solving, exploration, and intense boxing action. In this game, players step into the shoes of Pato Box, a duck-headed boxer on a quest for redemption and answers in a noir-inspired world filled with conspiracies and challenges.
 
     - name: Remnants of the Rift
-      image: 'images/portfolio/hugothemes.png'
-      url: https://www.remnantsoftherift.com/
-      description: Commodo non mollit commodo esse. Quis ad Lorem eiusmod ad velit Lorem sint elit. Anim magna duis et duis pariatur eiusmod laboris esse. Sit duis labore sit esse enim laborum nisi sunt magna sint labore tempor. Sit sit sint eu laboris officia et sunt consequat sit excepteur nostrud eu. Fugiat aliqua id et pariatur quis commodo aute aliqua et magna officia eu cillum mollit. Sint culpa excepteur culpa culpa sint est eu dolore culpa duis adipisicing proident.
+      image: 'images/portfolio/rfm.png'
+      url: https://store.steampowered.com/app/1656050/Remnants_of_the_Rift/
+      description: Remnants of the Rift is a roguelite tactics game where you can pause, plan, and play. You are Morgan, dimension-diving merc, delving deeper and deeper into The Bast at the request of the factions looking to exploit this new reality.
 
     - name: El Paso, Elsewhere
       image: 'images/portfolio/design.png'

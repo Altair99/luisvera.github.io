@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://example.com"
-title = "Port Hugo"
+title = "Portfolio"
 theme = ["github.com/thegitduck/port-hugo"]
 
 ############################# Plugins ##############################
@@ -44,8 +44,8 @@ URL = "#about"
 weight = 2
 
 [[menu.main]]
-name = "Portfolio"
-URL = "#portfolio"
+name = "Projects"
+URL = "#projects"
 weight = 3
 
 
@@ -57,8 +57,8 @@ copyright = "Copyright Luis Vera &copy;"
 # Meta data
 description = "Personal Portfolio"
 author = "Luis Vera"
-favicon = "images/favicon.png"
-google_analytics = "G-ABCDEFG123"
+favicon = "images/custom/favicon-32x32.png"
+#google_analytics = "G-ABCDEFG123"
 
 
 # Preloader
