@@ -6,7 +6,7 @@ hero:
   occupations:
     - 'Game Developer'
     - 'Software Developer'
-    - 'Chocolate milk Developer'
+    - 'DevNinja..'
 
   # hero background image
   bg_image: 'images/custom/background.jpg'
@@ -95,21 +95,16 @@ portfolio:
       url: https://store.steampowered.com/app/1656050/Remnants_of_the_Rift/
       description: Remnants of the Rift is a roguelite tactics game where you can pause, plan, and play. You are Morgan, dimension-diving merc, delving deeper and deeper into The Bast at the request of the factions looking to exploit this new reality.
 
-    - name: El Paso, Elsewhere
-      image: 'images/portfolio/design.png'
-      description: Commodo non mollit commodo esse. Quis ad Lorem eiusmod ad velit Lorem sint elit. Anim magna duis et duis pariatur eiusmod laboris esse. Sit duis labore sit esse enim laborum nisi sunt magna sint labore tempor. Sit sit sint eu laboris officia et sunt consequat sit excepteur nostrud eu. Fugiat aliqua id et pariatur quis commodo aute aliqua et magna officia eu cillum mollit. Sint culpa excepteur culpa culpa sint est eu dolore culpa duis adipisicing proident.
+    - name: El Paso, Elsewhere - Port to Xbox One and Series X|S
+      image: 'images/portfolio/elpasoelsewhere.png'
+      url: https://www.xbox.com/es-MX/games/store/el-paso-elsewhere/9P1H1KJB032N/0010
+      description: El Paso, Elsewhere is a supernatural neo-noir third-person shooter. Hunt werewolves, fallen angels, and other damned creatures in a vivid slow motion love letter to action classics. Fight your way through a reality-shifting motel, floor by bloody floor. Save the victims of Draculae, lord of the vampires. Destroy the villain you loved--even if it means dying yourself.
 
-    - name: Iron Marines Invasion
-      image: 'images/portfolio/hugo.png'
-      url: https://store.steampowered.com/app/682080/Pato_Box/
-      description: Commodo non mollit commodo esse. Quis ad Lorem eiusmod ad velit Lorem sint elit. Anim magna duis et duis pariatur eiusmod laboris esse. Sit duis labore sit esse enim laborum nisi sunt magna sint labore tempor. Sit sit sint eu laboris officia et sunt consequat sit excepteur nostrud eu. Fugiat aliqua id et pariatur quis commodo aute aliqua et magna officia eu cillum mollit. Sint culpa excepteur culpa culpa sint est eu dolore culpa duis adipisicing proident.
-
-    - name: Aragami 2
-      image: 'images/portfolio/hugo.png'
-      url: https://store.steampowered.com/app/682080/Pato_Box/
-      description: Commodo non mollit commodo esse. Quis ad Lorem eiusmod ad velit Lorem sint elit. Anim magna duis et duis pariatur eiusmod laboris esse. Sit duis labore sit esse enim laborum nisi sunt magna sint labore tempor. Sit sit sint eu laboris officia et sunt consequat sit excepteur nostrud eu. Fugiat aliqua id et pariatur quis commodo aute aliqua et magna officia eu cillum mollit. Sint culpa excepteur culpa culpa sint est eu dolore culpa duis adipisicing proident.
+    - name: Iron Marines Invasion - Port to Steam
+      image: 'images/portfolio/iron-marines-invasion.png'
+      url: https://store.steampowered.com/app/2187920/Iron_Marines_Invasion/
+      description: Prepare to take off, soldier! The galaxy needs your strategy! Prove your RTS expertise, explore an entire galaxy and defend it from a threatening invasion. 
 
     - name: NDA Projects
-      image: 'images/portfolio/hugo.png'
-      url: https://store.steampowered.com/app/682080/Pato_Box/
-      description: Commodo non mollit commodo esse. Quis ad Lorem eiusmod ad velit Lorem sint elit. Anim magna duis et duis pariatur eiusmod laboris esse. Sit duis labore sit esse enim laborum nisi sunt magna sint labore tempor. Sit sit sint eu laboris officia et sunt consequat sit excepteur nostrud eu. Fugiat aliqua id et pariatur quis commodo aute aliqua et magna officia eu cillum mollit. Sint culpa excepteur culpa culpa sint est eu dolore culpa duis adipisicing proident.
+      image: 'images/portfolio/nda.png'
+      description: Successfully complete a spectrum of diverse projects under non-disclosure agreements, spanning from the intricate process of porting to the dynamic realms of game development and application creation. These confidential endeavors showcase a versatile skill set and a commitment to delivering innovative solutions across various domains.
